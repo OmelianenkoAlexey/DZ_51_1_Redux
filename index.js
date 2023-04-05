@@ -3,7 +3,7 @@
 // добавить "type": "module", в файл package.json
 
 import redux from 'redux';
-console.log(redux);
+// console.log(redux);
 
 // ! action type это стандартные переменные
 const COUNT_ACTION_INC = 'COUNT_ACTION_INC';
